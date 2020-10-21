@@ -1,0 +1,14 @@
+{
+  "blockvalue": {
+    "IRON_BLOCK": 3.0,
+    "GOLD_BLOCK": 5.0,
+    "EMERALD_BLOCK": 20.0,
+    "DIAMOND_BLOCK": 10.0,
+    "HOPPER": 1.0,
+    "BEACON": 100.0
+  },
+  "spawnervalue": {
+    "IRON_GOLEM": 1000.0,
+    "PIG": 100.0
+  }
+}

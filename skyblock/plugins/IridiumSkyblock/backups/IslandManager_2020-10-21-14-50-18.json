@@ -1,0 +1,49 @@
+{
+  "islands": {},
+  "users": {
+    "98b716be-8a9c-4f4a-b78b-43c4073abb85": {
+      "player": "98b716be-8a9c-4f4a-b78b-43c4073abb85",
+      "name": "conanHYPS",
+      "islandID": 0,
+      "role": "Owner",
+      "invites": [],
+      "bypassing": false,
+      "islandChat": true,
+      "flying": false,
+      "lastCreate": "Oct 21, 2020, 03:40:02 PM"
+    }
+  },
+  "islandCache": [
+    [
+      [
+        -1,
+        -1
+      ],
+      []
+    ],
+    [
+      [
+        -1,
+        0
+      ],
+      []
+    ],
+    [
+      [
+        -2,
+        0
+      ],
+      []
+    ]
+  ],
+  "length": 1,
+  "current": 0,
+  "direction": "EAST",
+  "nextLocation": {
+    "x": 151.0,
+    "y": 0.0,
+    "z": 0.0,
+    "world": "IridiumSkyblock"
+  },
+  "nextID": 2
+}

@@ -1,0 +1,134 @@
+{
+  "sizeUpgrade": {
+    "enabled": true,
+    "slot": 10,
+    "upgrades": {
+      "1": {
+        "crystalsCost": 15,
+        "vaultCost": 0,
+        "size": 50
+      },
+      "2": {
+        "crystalsCost": 15,
+        "vaultCost": 0,
+        "size": 100
+      },
+      "3": {
+        "crystalsCost": 15,
+        "vaultCost": 0,
+        "size": 150
+      }
+    }
+  },
+  "memberUpgrade": {
+    "enabled": true,
+    "slot": 12,
+    "upgrades": {
+      "1": {
+        "crystalsCost": 15,
+        "vaultCost": 0,
+        "size": 9
+      },
+      "2": {
+        "crystalsCost": 15,
+        "vaultCost": 0,
+        "size": 18
+      },
+      "3": {
+        "crystalsCost": 15,
+        "vaultCost": 0,
+        "size": 27
+      }
+    }
+  },
+  "warpUpgrade": {
+    "enabled": true,
+    "slot": 14,
+    "upgrades": {
+      "1": {
+        "crystalsCost": 15,
+        "vaultCost": 0,
+        "size": 2
+      },
+      "2": {
+        "crystalsCost": 15,
+        "vaultCost": 0,
+        "size": 5
+      },
+      "3": {
+        "crystalsCost": 15,
+        "vaultCost": 0,
+        "size": 9
+      }
+    }
+  },
+  "oresUpgrade": {
+    "enabled": true,
+    "slot": 16,
+    "upgrades": {
+      "1": {
+        "crystalsCost": 15,
+        "vaultCost": 0,
+        "size": 0,
+        "ores": [
+          "COBBLESTONE:80",
+          "IRON_ORE:30",
+          "COAL_ORE:30",
+          "DIAMOND_ORE:10",
+          "REDSTONE_ORE:30",
+          "LAPIS_ORE:30",
+          "GOLD_ORE:30",
+          "EMERALD_ORE:10"
+        ],
+        "netherores": [
+          "NETHERRACK:80",
+          "GLOWSTONE:30",
+          "NETHER_QUARTZ_ORE:30",
+          "SOUL_SAND:30"
+        ]
+      },
+      "2": {
+        "crystalsCost": 15,
+        "vaultCost": 0,
+        "size": 0,
+        "ores": [
+          "COBBLESTONE:55",
+          "IRON_ORE:30",
+          "COAL_ORE:30",
+          "DIAMOND_ORE:20",
+          "REDSTONE_ORE:30",
+          "LAPIS_ORE:30",
+          "GOLD_ORE:30",
+          "EMERALD_ORE:20"
+        ],
+        "netherores": [
+          "NETHERRACK:50",
+          "GLOWSTONE:30",
+          "NETHER_QUARTZ_ORE:30",
+          "SOUL_SAND:30"
+        ]
+      },
+      "3": {
+        "crystalsCost": 15,
+        "vaultCost": 0,
+        "size": 0,
+        "ores": [
+          "COBBLESTONE:30",
+          "IRON_ORE:30",
+          "COAL_ORE:30",
+          "DIAMOND_ORE:30",
+          "REDSTONE_ORE:30",
+          "LAPIS_ORE:30",
+          "GOLD_ORE:30",
+          "EMERALD_ORE:30"
+        ],
+        "netherores": [
+          "NETHERRACK:30",
+          "GLOWSTONE:30",
+          "NETHER_QUARTZ_ORE:30",
+          "SOUL_SAND:30"
+        ]
+      }
+    }
+  }
+}
