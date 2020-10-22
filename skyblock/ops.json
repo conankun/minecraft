@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "98b716be-8a9c-4f4a-b78b-43c4073abb85",
+    "name": "conanHYPS",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

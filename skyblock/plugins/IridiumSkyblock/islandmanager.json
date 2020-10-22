@@ -1,47 +1,47 @@
 {
   "islands": {
-    "2": {
+    "3": {
       "owner": "98b716be-8a9c-4f4a-b78b-43c4073abb85",
       "members": [
         "98b716be-8a9c-4f4a-b78b-43c4073abb85"
       ],
       "pos1": {
-        "x": 125.0,
-        "y": 0.0,
-        "z": -26.0,
+        "x": 76.0,
+        "y": 100.0,
+        "z": 76.0,
         "world": "IridiumSkyblock"
       },
       "pos2": {
-        "x": 177.0,
-        "y": 0.0,
-        "z": 26.0,
+        "x": 226.0,
+        "y": 100.0,
+        "z": 226.0,
         "world": "IridiumSkyblock"
       },
       "center": {
         "x": 151.0,
         "y": 100.0,
-        "z": 0.0,
+        "z": 151.0,
         "world": "IridiumSkyblock"
       },
       "home": {
         "x": 150.5,
         "y": 96.0,
-        "z": -2.5,
+        "z": 148.5,
         "world": "IridiumSkyblock"
       },
       "netherhome": {
         "x": 150.5,
         "y": 96.0,
-        "z": -2.5,
+        "z": 148.5,
         "world": "IridiumSkyblock_nether"
       },
-      "id": 2,
+      "id": 3,
       "spawnerBooster": 0,
       "farmingBooster": 0,
       "expBooster": 0,
       "flightBooster": 0,
-      "crystals": 0,
-      "sizeLevel": 1,
+      "crystals": 9970,
+      "sizeLevel": 3,
       "memberLevel": 1,
       "warpLevel": 1,
       "oreLevel": 1,
@@ -88,25 +88,7 @@
           "interact": true,
           "kickMembers": true,
           "inviteMembers": true,
-          "regen": true,
-          "islandprivate": true,
-          "promote": true,
-          "demote": true,
-          "useNetherPortal": true,
-          "useWarps": true,
-          "coop": true,
-          "withdrawBank": true,
-          "killMobs": true,
-          "pickupItems": true,
-          "breakSpawners": true
-        },
-        "Member": {
-          "breakBlocks": true,
-          "placeBlocks": true,
-          "interact": true,
-          "kickMembers": true,
-          "inviteMembers": true,
-          "regen": true,
+          "regen": false,
           "islandprivate": true,
           "promote": true,
           "demote": true,
@@ -124,7 +106,25 @@
           "interact": true,
           "kickMembers": true,
           "inviteMembers": true,
-          "regen": true,
+          "regen": false,
+          "islandprivate": true,
+          "promote": true,
+          "demote": true,
+          "useNetherPortal": true,
+          "useWarps": true,
+          "coop": true,
+          "withdrawBank": true,
+          "killMobs": true,
+          "pickupItems": true,
+          "breakSpawners": true
+        },
+        "Member": {
+          "breakBlocks": true,
+          "placeBlocks": true,
+          "interact": true,
+          "kickMembers": true,
+          "inviteMembers": true,
+          "regen": false,
           "islandprivate": true,
           "promote": true,
           "demote": true,
@@ -164,21 +164,30 @@
       "money": 0.0,
       "exp": 0,
       "biome": "PLAINS",
-      "lastRegen": "Oct 21, 2020, 03:50:25 PM",
-      "lastPlayerCaching": 1603317219743
+      "lastRegen": "Oct 21, 2020, 10:29:52 PM",
+      "lastPlayerCaching": 1603341831031
     }
   },
   "users": {
     "98b716be-8a9c-4f4a-b78b-43c4073abb85": {
       "player": "98b716be-8a9c-4f4a-b78b-43c4073abb85",
       "name": "conanHYPS",
-      "islandID": 2,
+      "islandID": 3,
       "role": "Owner",
       "invites": [],
       "bypassing": false,
       "islandChat": true,
       "flying": false,
-      "lastCreate": "Oct 21, 2020, 03:50:25 PM"
+      "lastCreate": "Oct 21, 2020, 10:29:52 PM"
+    },
+    "13ce7108-268c-4243-86e1-61122d892d8a": {
+      "player": "13ce7108-268c-4243-86e1-61122d892d8a",
+      "name": "Rank",
+      "islandID": 0,
+      "invites": [],
+      "bypassing": false,
+      "islandChat": false,
+      "flying": false
     }
   },
   "islandCache": [
@@ -208,19 +217,47 @@
         9,
         -1
       ],
+      []
+    ],
+    [
       [
-        2
+        9,
+        0
+      ],
+      []
+    ],
+    [
+      [
+        8,
+        -1
+      ],
+      []
+    ],
+    [
+      [
+        8,
+        0
+      ],
+      []
+    ],
+    [
+      [
+        9,
+        9
+      ],
+      [
+        3
       ]
     ]
   ],
   "length": 2,
-  "current": 0,
+  "current": 1,
   "direction": "SOUTH",
   "nextLocation": {
-    "x": 151.0,
+    "x": -849.0,
     "y": 0.0,
     "z": 151.0,
     "world": "IridiumSkyblock"
   },
-  "nextID": 3
+  "nextID": 4
 }
