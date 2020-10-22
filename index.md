@@ -1,37 +1,82 @@
-## Welcome to GitHub Pages
+# KSEA Seattle Minecraft
+Welcome to KSEA Seattle Minecraft Competition!
 
-You can use the [editor on GitHub](https://github.com/conankun/minecraft/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a guide to help you survive in the minecraft world.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How to Connect
 
-### Markdown
+- Choose 1.16.3 for minecraft version and click the play button
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Click Multiplayer and click add server on the bottom
 
-```markdown
-Syntax highlighted code block
+- Put codu.dev in the Server Address and hit Done.
 
-# Header 1
-## Header 2
-### Header 3
+- Click the server you just added.
 
-- Bulleted
-- List
+- Once you join the server, press T to open up chat and type /is. This will create the skyblock island for you.
 
-1. Numbered
-2. List
+Now, all done!
 
-**Bold** and _Italic_ and `Code` text
+## What is a skyblock
 
-[Link](url) and ![Image](src)
-```
+Skyblock is a mode where you are building your own island with limited resource at your hand. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+You can develop your island by taking advantage of minecraft mechanism (such as Cobblestone generator), automation with redstones, and selling and buying resources with /is shop.
 
-### Jekyll Themes
+Also, you can upgrade your island (such as maximum land size) by acquiring crystals with /is upgrade!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/conankun/minecraft/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Skyblock Tutorial
 
-### Support or Contact
+A wonderful videos from [Pixlriffs](https://www.youtube.com/channel/UCgGjBqZZtAjxfpGSba7d6ww) show basics you need on how to survive on the almost-empty island on the sky!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please check out videos below if you are not familiar with skyblock.
+
+- [Getting Started In Skyblock! ▫ Minecraft 1.15 Skyblock (Tutorial Let's Play) [Part 1]](https://www.youtube.com/watch?v=Uyp_B9yQ56w)
+- [Skyblock Hostile Mob Spawner! ▫ Minecraft 1.15 Skyblock (Tutorial Let's Play) [Part 2]](https://www.youtube.com/watch?v=eAKQkAVmVT8)
+
+Also, if you are aiming for top ranker, please check out a guide on redstone to get started with automation.
+
+- [How to go From NOOB to PRO at Minecraft Redstone!](https://www.youtube.com/watch?v=EDe_Bp2UWOU)
+
+## Skyblock Commands
+
+| Command  | Description |
+| ------------- | ------------- |
+| /is or /is admin | Opens the Island GUI |
+| /is create | Creates a new island |
+| /is invite | Invite a player to your island |
+| /is regen | Regenerate your island. This will reset your island. Cool time: 60m |
+| /is join | Join another players island |
+| /is missions | Opens the missions GUI |
+| /is upgrade | Opens the upgrades GUI |
+| /is crystals | Shows you how many crystals you have |
+| /is members | View your island members |
+| /is warps | Shows you your plugin warps |
+| /is setwarps | Sets a new Island warp |
+| /is value | Shows you your island value |
+| /is bank | Open the bank gui |
+| /is biome | Open the biome gui |
+| /is chat | Talk to your island members |
+| /is shop | Open the island shop |
+
+## Team Formation
+
+You can add upto 3 people to join the skyblock journey with you. 
+
+Don't have a friend? Don't worry. You can join as a solo or we can find teammates for you.
+
+You can invite your teammate to your island by /is invite {your teammate's nickname}
+## Grading
+Your ranking will be graded by the value of your island. 
+
+The value of island is combined value of all blocks on your island.
+
+You can check your island's value by /is value command. 
+
+Also, you can find out top rankers by /is top.
+
+## Awards
+
+- Gold (TBD teams): TBD
+- Silver (TBD teams): TBD
+- Bronze (TBD teams): TBD
